@@ -1,14 +1,14 @@
 {
   "name": "potion-of-flight",
   "version": "0.0.4",
-  "description": "Superbook potion-of-flight by lewiscarroll",
+  "description": "Superbook potion-of-flight by davidrevoy",
   "keywords": [
     "superbook",
     "bookiza"
   ],
-  "author": "lewiscarroll <marvindanig+guten+lewis+carroll@gmail.com> (https://bubbl.in/lewiscarroll)",
+  "author": "davidrevoy <marvindanig+comics+david+revoy@gmail.com> (https://bubbl.in/davidrevoy)",
   "license": "ISC",
-  "homepage": "https://bubbl.in/lewiscarroll",
+  "homepage": "https://bubbl.in/davidrevoy",
   "repository": {
     "type": "git",
     "url": "git+https://github/project/url/here"
