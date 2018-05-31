@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "potion-of-flight",
-  "type": "comics"
+  "name": "Potion of Flight",
+  "type": "comics",
+  "book_id": 336
 }
