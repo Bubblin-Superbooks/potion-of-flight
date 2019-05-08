@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
+  "has_page_numbers": false,
   "name": "Potion of Flight",
   "type": "comics",
   "book_id": 336
